@@ -1,24 +1,16 @@
-# README
+# Le Back End de AIRBNB
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Vendredi, le 02 Aout 2019
 
-Things you may want to cover:
 
-* Ruby version
+Bienvenue dans mon projet du BDD AIRBNB avec PostgreSQL
 
-* System dependencies
+Les outils pour y parvenir à cet apps rails:
 
-* Configuration
+* Ruby 2.6.3p62 (2019-04-16 revision 67580)
 
-* Database creation
+* Gems ; initié les gems que j'ai utilisé avec "bundle install"
 
-* Database initialization
+# Fenohery
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://github.com/fenoh3ry
